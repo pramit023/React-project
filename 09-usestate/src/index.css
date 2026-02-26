@@ -1,0 +1,30 @@
+.increase{
+  padding: 10px 15px;
+  background-color:rgb(25, 94, 10) ;
+  color: black;
+  margin: 20px;
+}
+.decrease{
+  padding: 10px 15px;
+  background-color:rgb(209, 38, 52) ;
+  color: black;
+  margin: 20px;
+}
+.jump5{
+  padding: 10px 15px;
+  background-color:#a1d126 ;
+  color: black;
+  margin: 20px;
+}
+h1{
+  background-color: rgb(40, 53, 80);
+  width: fit-content;
+  padding: 30px 40px;
+  margin-left: 3.5cm;
+  color: beige;
+  font-size:1.5cm;
+
+}
+button{
+  border-radius: 50%;
+}
